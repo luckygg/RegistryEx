@@ -1,0 +1,2 @@
+# RegistryEx
+Registry Class
